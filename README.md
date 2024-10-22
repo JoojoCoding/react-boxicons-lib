@@ -26,6 +26,14 @@ function App() {
 export default App
 ```
 
-Link to boxicons: https://boxicons.com/
+---
+
+Link to boxicons: https://boxicons.com
+
+---
+
 Link to npm: https://www.npmjs.com/package/@joojocoding/react-boxicons
+
+---
+
 Link to github: https://github.com/JoojoCoding/react-boxicons-lib

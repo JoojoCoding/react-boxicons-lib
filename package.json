@@ -1,6 +1,6 @@
 {
   "name": "@joojocoding/react-boxicons",
-  "version": "0.0.5",
+  "version": "1.0.1",
   "description": "React component for Boxicons",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -15,6 +15,13 @@
     "type": "git",
     "url": "https://github.com/JoojoCoding/react-boxicons-lib.git"
   },
+  "keywords": [
+    "boxicons",
+    "react",
+    "typescript",
+    "javascript",
+    "nextjs"
+  ],
   "devDependencies": {
     "react": "^18.3.1",
     "tslib": "^2.8.0",
